@@ -1,4 +1,4 @@
 # vigernet
-Repository of VigerNet
+Repository of Skyx
 
 Testerei
